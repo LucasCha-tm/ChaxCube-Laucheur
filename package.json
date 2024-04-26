@@ -1,15 +1,15 @@
 {
     "name": "LandCraft-Laucheur",
     "preductname": "LandCraft Launcher",
-    "version": "1.0.3",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "version": "1.0.4",
+    "description": "Launcher Mincraft pour le serveur LandCraft",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, LucasChaOff, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://landcraft.sharp-inventory.x10.mx",
+    "url": "http://sharp-inventory.yn.lu",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
