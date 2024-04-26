@@ -1,13 +1,13 @@
 {
     "name": "LandCraft-Laucheur",
     "preductname": "LandCraft Launcher",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Launcher Mincraft pour le serveur LandCraft",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, LucasChaOff, Inc.",
-        "email": "contact@luuxis.fr",
-        "url": "https://github.com/luuxis"
+        "email": "contact@sharp-inventory.yn.lu",
+        "url": "https://github.com/lucascha-tm"
     },
     "url": "http://sharp-inventory.yn.lu",
     "scripts": {
