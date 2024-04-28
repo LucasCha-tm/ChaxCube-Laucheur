@@ -1,7 +1,7 @@
 {
     "name": "LandCraft-Laucheur",
     "preductname": "LandCraft Launcher",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Launcher Mincraft pour le serveur LandCraft",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@landcraft.x10.mx",
         "url": "https://github.com/lucascha-tm"
     },
-    "url": "http://az.landcraft.x10.mx",
+    "url": "http://lucascha-test.000webhostapp.com",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
