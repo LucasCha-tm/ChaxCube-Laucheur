@@ -31,8 +31,8 @@ class Splash {
     async startAnimation() {
         let splashes = [
             { "message": "Bienvenue sur LandCraft", "author": "LucasCha" },
-            { "message": "Impossible... que se laucheur ne marche pas", "author": "LucasCha" },
-            { "message": "Pourquoi se compliquer la vie alors que ce laucheur existe.", "author": "LucasCha" }
+            { "message": "Hello", "author": "LucasCha" },
+            { "message": "Bonjour", "author": "LandCraft" }
         ];
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;

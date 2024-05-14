@@ -1,7 +1,7 @@
 {
     "name": "LandCraft-Laucheur",
     "preductname": "LandCraft Launcher",
-    "version": "1.0.9",
+    "version": "1.1.0",
     "description": "Launcher Mincraft pour le serveur LandCraft",
     "main": "src/app.js",
     "author": {
