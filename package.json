@@ -1,8 +1,8 @@
 {
-    "name": "LandCraft-Laucheur",
-    "preductname": "LandCraft Launcher",
+    "name": "ChaxCube",
+    "preductname": "ChaxCube",
     "version": "1.1.1",
-    "description": "Launcher Mincraft pour le serveur LandCraft",
+    "description": "Launcher Mincraft pour le serveur ChaxCube",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, LucasChaOff, Inc.",
